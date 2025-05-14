@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - balls
+  - Ground
+  - Wall
+  - New tag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Balls
+  - Water
+  - UI
+  - 
+  - 
+  - WallLayer
+  - ' GroundLayer'
+  - lo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3774771751
+    locked: 0
+  - name: ball
+    uniqueID: 2574704597
+    locked: 0
+  - name: Ground
+    uniqueID: 216346379
+    locked: 0
+  - name: Wall
+    uniqueID: 3722718891
+    locked: 0
+  - name: ss
+    uniqueID: 2923394891
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 2069390095
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 3114738061
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 4035933455
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 345446747
+    locked: 0
